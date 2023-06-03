@@ -1,9 +1,3 @@
-#Caio Collete Silva
-#João Ricardo Nascimento Lescovar
-#João Manoel Lira Bibiano
-#Carlos Eduardo Barbosa Vicente
-
-
 import random, string
 # CORES
 RED   = "\033[1;31m"
